@@ -1,13 +1,37 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eef6f3;
+  color: #1f2933;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: #00438D;
+}
+
+button {
+  background-color: #009966;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #007a52;
+}
+
 input {
-    padding: 10px;
-    border: 1px solid #999999;
-    border-radius: 6px;
-    width: 100%;
-    max-width: 320px;
-  }
-  
-  #mensajeLogin {
-    margin-top: 12px;
-    font-weight: bold;
-  }
-  
+  padding: 10px;
+  border: 1px solid #999999;
+  border-radius: 6px;
+  width: 100%;
+  max-width: 320px;
+}
+
+#mensajeLogin {
+  margin-top: 12px;
+  font-weight: bold;
+}
