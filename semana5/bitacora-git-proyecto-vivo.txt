@@ -26,7 +26,7 @@ Respuesta: cd programadores-para-la-paz-mini-sitio-comunitario
 
 6. Comando usado para crear tu rama personal:
 
-Respuesta:git checkout -b Angeluz_Millan
+Respuesta:git checkout -b maria-palacios
 
 7. Comando usado para verificar la rama actual:
 
@@ -60,4 +60,4 @@ Respuesta:git commit -m "Clase 21 inicio proyecto unico mini sitio"
 
 14. Comando usado para publicar tu rama:
 
-Respuesta: git push -u origin Angeluz_Millan
+Respuesta: git push -u origin maria-palacios
