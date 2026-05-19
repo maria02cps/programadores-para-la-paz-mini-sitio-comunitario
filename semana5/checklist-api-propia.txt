@@ -1,8 +1,8 @@
 Checklist de API propia – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Maria Consuelo Palacios
+Fecha:18  de mayo 2026
+Nombre de la rama:maria- Palacios
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,58 +10,58 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El frontend consulta información del backend?
 
-Respuesta:
+Respuesta: Sí. El frontend se conecta con el backend para obtener información y mostrarla en la página de forma actualizada.
 
 2. Consumo de la API propia
 
 ¿La página usa rutas del mismo proyecto?
 
-Respuesta:
+Respuesta:Sí. La página consume rutas propias del proyecto, como las rutas creadas en la API para mensajes, calendario y resumen.
 
 3. Mensajes dinámicos
 
 ¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
 
-Respuesta:
+Respuesta:Sí. Los mensajes se cargan desde datos consultados, lo que permite que la información pueda cambiar sin modificar directamente el HTML
 
 4. Ruta GET /api/mensajes
 
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta:Sí. La ruta permite consultar los mensajes y entregar la información necesaria para mostrarla en el sitio.
 
 5. Ruta GET /api/calendario
 
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta:Sí. La ruta entrega los datos del calendario para mostrar actividades o eventos comunitarios.
 
 6. Ruta GET /api/resumen
 
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta:Sí. La ruta muestra un resumen general de la información importante del mini-sitio.
 
 7. Respuesta JSON
 
 ¿Las rutas entregan datos estructurados?
 
-Respuesta:
+Respuesta:Sí. Las rutas entregan la información en formato JSON, lo que facilita que el frontend pueda leerla y organizarla.
 
 8. Render dinámico
 
 ¿El tablero muestra datos recibidos desde la API?
 
-Respuesta:
+Respuesta:Sí. El tablero presenta información recibida desde la API, permitiendo que el contenido sea dinámico y actualizable.
 
 9. Diagnóstico básico
 
 ¿Sabes qué revisar si no carga la información?
 
-Respuesta:
+Respuesta:Sí. Se debe revisar si el servidor está activo, si las rutas están bien escritas, si la API responde correctamente y si hay errores en la consola del navegador.
 
 10. Comunicación responsable
 
 ¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
 
-Respuesta:
+Respuesta:Sí. La información debe mantenerse clara, con lenguaje adecuado, revisión de fuentes y coherencia para que sea útil y confiable para la comunidad.

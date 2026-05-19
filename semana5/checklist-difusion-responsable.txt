@@ -1,8 +1,8 @@
 Checklist de difusión responsable – Clase 21
 
-Nombre del estudiante:
+Nombre del estudiante: Maria Consuelo Palacios
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria- Palacios
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,70 +10,70 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El mensaje aporta información útil para la comunidad?
 
-Respuesta:
+Respuesta:SÍ. Porque promueve buenas prácticas digitales y comunicación responsable.
 
 2. Planificación del calendario editorial
 
 ¿La publicación está organizada por fecha, canal, responsable y propósito?
 
-Respuesta:
+Respuesta:SÍ. cada pieza tiene día, canal, responsable y propósito definidos.
 
 3. Calendario editorial
 
 ¿La pieza está ubicada dentro de una secuencia de publicaciones de dos semanas?
 
-Respuesta:
-
+Respuesta SÍ. Las seis piezas se distribuyen de manera ordenada y secuencial  abarca exactamente la Semana 1 y la Semana 2.
 4. Revisión de fuentes
 
 ¿El mensaje indica fuente o criterio de verificación cuando hace afirmaciones?
 
-Respuesta:
+Respuesta:sÍ. Cada publicación cuenta con un respaldo explícito en su ficha, como el canal institucional, la API comunitaria o las reglas editoriales mínimas.
 
 5. Consistencia comunicativa
 
 ¿El mensaje mantiene coherencia con el propósito general de la campaña?
 
-Respuesta:
+Respuesta:SÍ. Porque todas las piezas buscan promover comunicación responsable y participación respetuosa.
 
 6. Consistencia editorial
 
 ¿El tono, el lenguaje y el llamado a la acción son coherentes con las demás piezas?
 
-Respuesta:
+Respuesta:SÍ. Porque mantienen un lenguaje claro, pedagógico e informativo.
 
 7. Moderación editorial básica
 
 ¿El mensaje debería revisarse antes de publicarse?
 
-Respuesta:
+Respuesta:SÍ. Porque es importante verificar información, redacción y coherencia antes de publicar.
 
 8. Público objetivo
 
 ¿Está claro a quién va dirigido?
 
-Respuesta:
+Respuesta:SÍ. Porque cada pieza especifica el público objetivo.
 
 9. Tono
 
 ¿El tono es adecuado para la audiencia?
 
-Respuesta:
+Respuesta:SÍ. Porque utiliza un tono respetuoso y adecuado para la comunidad.
 
 10. Llamado a la acción
 
 ¿La persona que lee sabe qué hacer después?
 
-Respuesta:
+Respuesta:SÍ. Cada pieza cierra con una instrucción muy concreta y directa, como "Verifica la fuente", "Envía una propuesta" o "Consulta el balance".
 
 11. Lenguaje responsable y no estigmatizante
 
 ¿El mensaje evita insultos, generalizaciones, alarmismo, exclusión o señalamientos sin evidencia?
 
-Respuesta:
+Respuesta:SÍ. Porque utiliza lenguaje respetuoso y evita expresiones ofensivas o discriminatorias.
 
 12. Minimización de datos
 
 ¿El mensaje evita publicar datos personales innecesarios?
 
-Respuesta:
+Respuesta:SÍ. Porque para informar, orientar o verificar la información no es necesario 
+publicar datos personales de los participantes o miembros de la comunidad.

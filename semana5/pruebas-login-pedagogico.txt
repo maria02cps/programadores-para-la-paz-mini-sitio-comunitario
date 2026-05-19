@@ -1,8 +1,9 @@
 Pruebas de login pedagógico – Clase 24
 
-Nombre del estudiante:
+Nombre del estudiante: Maria Consuelo Palacios
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria- Palacios
+
 
 Importante:
 Este login es solo pedagógico. No es autenticación real.

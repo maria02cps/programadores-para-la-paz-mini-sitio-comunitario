@@ -1,8 +1,9 @@
 Checklist README y transparencia – Clase 24
 
-Nombre del estudiante:
+Nombre del estudiante: Maria Consuelo Palacios
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria- Palacios
+
 
 Marca SÍ o NO y explica brevemente.
 

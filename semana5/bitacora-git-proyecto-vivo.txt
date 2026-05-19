@@ -1,61 +1,63 @@
 Bitácora Git del proyecto vivo – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Maria Consuelo Palacios
+Fecha:18  de mayo 2026
+Nombre de la rama:maria- Palacios
 
 1. Nombre del repositorio único de Semana 5:
 
-Respuesta:
+Respuesta:programadores-para-la-paz-mini-sitio-comunitario
 
 2. ¿Qué rama actualizan los docentes?
 
-Respuesta:
+Respuesta: la rama main
 
 3. ¿Qué rama usa cada estudiante para trabajar?
 
-Respuesta:
+Respuesta: la propia
 
 4. Comando usado para clonar el repositorio:
 
-Respuesta:
+Respuesta: git clone https://github.com/angeluz1238/programadores-para-la-paz-mini-sitio-comunitario.git
 
 5. Comando usado para entrar a la carpeta del proyecto:
 
-Respuesta:
+Respuesta: cd programadores-para-la-paz-mini-sitio-comunitario
 
 6. Comando usado para crear tu rama personal:
 
-Respuesta:
+Respuesta:git checkout -b Angeluz_Millan
 
 7. Comando usado para verificar la rama actual:
 
-Respuesta:
+Respuesta:git branch
 
 8. Comando que se usará desde la Clase 22 para traer cambios de main:
 
-Respuesta:
+Respuesta:git pull --ff-only origin main
 
 9. Explica con tus palabras qué significa fast-forward:
 
-Respuesta:
+Respuesta:Fast-forward es cuando Git actualiza los cambios fácilmente porque solo una persona hizo modificaciones
+ y no hubo conflictos con otros cambios
 
 10. ¿Por qué no se debe trabajar directamente en main?
 
-Respuesta:
+Respuesta: No se debe trabajar directamente en main porque esa es la rama principal del proyecto y debe mantenerse tal cual y sin errores.
+Si varias personas hacen cambios directamente allí, se pueden generar conflictos, errores o incluso dañar el funcionamiento del proyecto.
 
 11. Comando usado para revisar cambios al final:
 
-Respuesta:
+Respuesta: git status
 
 12. Comando usado para agregar cambios:
 
-Respuesta:
+Respuesta: git add .
 
 13. Comando usado para crear commit:
 
-Respuesta:
+Respuesta:git commit -m "Clase 21 inicio proyecto unico mini sitio"
 
 14. Comando usado para publicar tu rama:
 
-Respuesta:
+Respuesta: git push -u origin Angeluz_Millan

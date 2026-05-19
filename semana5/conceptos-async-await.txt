@@ -1,47 +1,54 @@
 Conceptos básicos de async y await – Clase 21
 
-Nombre del estudiante:
+Nombre del estudiante: Maria Consuelo Palacios
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria- Palacios
+
 
 Responde con tus propias palabras.
 
 1. ¿Qué es una promesa en JavaScript?
 
-Respuesta:
+Respuesta:Es como cuando pides una pizza a domicilio. No te la dan de inmediato, te dan un comprobante de envio.
+ Ese combrobante es la promesa de que la pizza va a llegar en un rato (si todo sale bien) o de que te van a llamar si se les quemó (si hay un error).
 
 2. ¿Qué significa async?
 
-Respuesta:
+Respuesta:Es como ir a una cafetería moderna. Llegas, pides tu café, te dan una factura y te dicen "espera en la mesa mientras lo preparamos". 
+El cajero sigue atendiendo a los demás y la fila no se detiene. Tu café se prepara en segundo plano sin congelar el lugar.
 
 3. ¿Qué significa await?
 
-Respuesta:
+Respuesta: significa esperar que algo termine antes de seguir con el resto del código.
 
 4. ¿Por qué fetch devuelve una promesa?
 
-Respuesta:
+Respuesta:Porque traer datos de internet no es instantáneo. fetch te da una promesa para decirte: 
+"Ya fui a buscar los mensajes al servidor, espérame un ratito que ya vuelvo con la respuesta".
 
 5. ¿Qué diferencia viste entre .then() y async/await?
 
-Respuesta:
+Respuesta:.then() se usa para ejecutar alguna accion después de que una promesa termina,
+ mientras que async/await sirve para esperar el resultado de una forma más ordenada y fácil de leer.
 
 6. ¿Qué hace try en esta práctica?
 
-Respuesta:
+Respuesta:Es la parte donde le dices a la computadora: 
+"intenta hacer esto" (cargar calendario). Si funciona, todo perfecto.
 
 7. ¿Qué hace catch en esta práctica?
 
-Respuesta:
+Respuesta:Muestra el error si algo sale mal en el código.
 
 8. ¿Qué ruta se usa para cargar mensajes?
 
-Respuesta:
+Respuesta:http://localhost:3000/api/mensajes
 
 9. ¿Qué ruta se usa para cargar calendario editorial?
 
-Respuesta:
+Respuesta:http://localhost:3000/api/calendario
 
 10. ¿Cómo ayuda async y await a leer mejor el código?
 
-Respuesta:
+Respuesta:Async y await ayudan a leer mejor el código porque permiten escribir las instrucciones de una manera más organizada y parecida a una secuencia normal de pasos.
+ Esto hace que el código sea más claro, más fácil de entender y más sencillo de revisar cuando se trabaja con información que tarda en cargar.

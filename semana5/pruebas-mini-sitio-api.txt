@@ -1,8 +1,9 @@
 Pruebas del mini-sitio y API – Clase 21
 
-Nombre del estudiante:
+Nombre del estudiante: Maria Consuelo Palacios
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria- Palacios
+
 
 Prueba 1: Abrir mini-sitio
 
@@ -12,10 +13,11 @@ http://localhost:3000
 Resultado esperado:
 El navegador muestra el mini-sitio comunitario.
 
-Resultado observado:
+Resultado observado: se observa la pagina con la especificicacion de cuanto tiempo se trabajara el proyecto, dice que es un proyecto vivo en github , el cual posee mensajes comunitarios,
+calendario editorial y difusion responsable.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 2: Cargar mensajes
 
@@ -25,10 +27,10 @@ Hacer clic en Cargar mensajes.
 Resultado esperado:
 Aparecen mensajes comunitarios con título, mensaje, categoría, audiencia, tono, llamado a la acción y fuente.
 
-Resultado observado:
+Resultado observado: aparecen 3 mensajes ,tal cual las especificaciones del resultado esperado y con revision editorial.
 
 ¿Funcionó?
-Respuesta:
+Respuesta:si
 
 Prueba 3: Cargar calendario editorial
 
@@ -38,26 +40,27 @@ Hacer clic en Cargar calendario.
 Resultado esperado:
 Aparecen 6 piezas del calendario editorial.
 
-Resultado observado:
+Resultado observado: tal cual el resultado esperado. en su respectivo orden 3 piezas por semana , categorizadas lunes, miercoles , viernes (semana 1 y 2)
 
 ¿Funcionó?
-Respuesta:
+Respuesta:si
 
 Prueba 4: Ruta directa de mensajes
 
 Ruta:
 http://localhost:3000/api/mensajes
 
-Resultado observado:
+Resultado: se ve un texto crudo en formato JSON (con corchetes [] y llaves {}) que contiene todos los datos de los mensajes
 
 Prueba 5: Ruta directa de calendario
 
 Ruta:
 http://localhost:3000/api/calendario
 
-Resultado observado:
+Resultado observadao: se ve un texto crudo en formato JSON (con corchetes [] y llaves {}) que contiene todos los datos de los dias semanales.
 
 Conclusión:
 ¿Qué prueba te ayudó más a entender cómo el mini-sitio consume la API?
 
-Respuesta:
+Respuesta:"Las pruebas 4 y 5 fueron las que más me ayudaron. Al entrar a esas rutas (/api/mensajes y /api/calendario), pude ver la información 'pura' (en formato JSON) directamente desde el servidor. 
+Ahí entendí que el comando fetch funciona como un mensajero que va a buscar esos datos crudos, mientras que async y await nos ayudan a ordenar el código en la pantalla para recibir esa información sin desorden.

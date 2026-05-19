@@ -1,39 +1,46 @@
 Curaduría de datos visibles – Clase 22
 
-Nombre del estudiante:
+Nombre del estudiante: Maria Consuelo Palacios
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria- Palacios
+
 
 Revisa los datos disponibles en data/mensajes.json y data/calendario-editorial.json.
 
 1. ¿Qué datos sí deben mostrarse públicamente en el tablero de mensajes?
 
-Respuesta:
+Respuesta:Deben mostrarse de forma abierta el titulo, el mensaje (el contenido de la propuesta), la categoria (como cultura-de-paz o prevencion-desinformacion), la audiencia o publico Objetivo, 
+el llamadoAccion y la fuente. Estos datos le explican  a la comunidad sobre que tema se habla , que se propone y bajo qué respaldo.
 
 2. ¿Qué datos no deberían mostrarse públicamente o deben mostrarse con cuidado?
 
-Respuesta:
+Respuesta:Los campos responsable y observaciones deben mostrarse con cuidado o mantenerse internos,
+ ya que contienen información administrativa y de revisión editorial.
 
 3. ¿Por qué no todo lo que está en el JSON debe aparecer en la vista pública?
 
-Respuesta:
+Respuesta:Porque algunos datos son de organización interna y no aportan directamente a la comunidad.
+ Mostrar demasiada información puede generar confusión o exponer procesos internos innecesarios.
 
 4. ¿Qué datos ayudan a la comunidad a entender el mensaje?
 
-Respuesta:
+Respuesta:El tema, propósito, tono, pieza y llamado a la acción ayudan a entender claramente el contenido y la intención de cada publicación.
 
 5. ¿Qué datos ayudan a verificar la información?
 
-Respuesta:
+Respuesta:La fuente, el canal y el propósito ayudan a identificar el origen y explicacion de la información compartida.
 
 6. ¿Qué datos podrían ser internos para revisión editorial?
 
-Respuesta:
+Respuesta:Los datos de responsable y observaciones pueden ser internos porque son más para los que organizan y revisan las publicaciones antes de subirlas.
 
 7. ¿Cómo se relaciona la minimización de datos visibles con la confianza comunitaria?
 
-Respuesta:
+Respuesta:Porque si muestran solo lo importante la gente entiende mejor y confía más, y no se confunden con muchas cosas que no sirven.
 
 8. Escribe una regla de curaduría para el tablero:
 
-Respuesta:
+Respuesta:Solo se deben poner mensajes que ayuden a la comunidad, que sean fáciles de entender y que tengan información clara. 
+También revisar que no tengan palabras ofensivas, cosas falsas o mensajes que puedan confundir a las personas. 
+Antes de publicar algo se debe mirar que la información esté bien escrita,
+tenga buena fuente y sirva para informar o ayudar a la comunidad.

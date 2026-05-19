@@ -1,8 +1,9 @@
 Reflexión sobre integración Frontend-Backend – Clase 23
 
-Nombre del estudiante:
+Nombre del estudiante: Maria Consuelo Palacios
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria- Palacios
+
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -29,3 +30,5 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+
+Conectar el frontend con el backend ayuda a que un mini-sitio comunitario mantenga información dinámica, actualizable y útil, porque permite que los datos no estén escritos de forma fija en la página, sino que puedan venir desde una API propia mediante el consumo de información en formato JSON. A través de herramientas como fetch, async y await, el frontend puede comunicarse con el backend para mostrar mensajes dinámicos y realizar un render dinámico de noticias, actividades o avisos importantes para la comunidad. Esta integración Frontend-Backend también fortalece la participación ciudadana, ya que facilita el acceso a información reciente, clara y organizada. Sin embargo, para que el sitio sea realmente útil, es necesario mantener una comunicación responsable, revisar las fuentes, conservar la consistencia comunicativa y aplicar una moderación editorial básica. De esta manera, el mini-sitio no solo informa mejor, sino que también aporta a la cultura de paz dentro de la comunidad

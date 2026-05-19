@@ -1,8 +1,9 @@
 Reflexión sobre mini-sitio comunitario – Clase 21
 
-Nombre del estudiante:
+Nombre del estudiante: Maria Consuelo Palacios
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria- Palacios
+
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -31,3 +32,11 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+En Un mini-sitio que se conecta a una API ayuda mucho a la comunidad porque muestra la información ordenada y fácil de entender.
+ Usando fetch, async y await podemos traer los datos del servidor en formato JSON sin que la página se trabe y mostrándola de forma limpia.
+Además, tener un calendario editorial nos permite planificar los contenidos y asegurar una difusión responsable.
+También es clave revisar las fuentes para compartir datos verdaderos y evitar noticias falsas,
+ usando un lenguaje responsable y no estigmatizante que cuide la convivencia y la cultura de paz.
+Por el lado del código, trabajar en GitHub con una rama personal evita dañar la rama main y ayuda a coordinar el trabajo en grupo.
+ Usar comandos como git pull origin main hace que todos tengamos el proyecto único actualizado, 
+lo que al final mejora la participación ciudadana y la organización comunitaria.

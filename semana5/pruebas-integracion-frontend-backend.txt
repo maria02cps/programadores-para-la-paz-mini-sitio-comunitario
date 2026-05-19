@@ -1,8 +1,9 @@
 Pruebas de integración Frontend-Backend – Clase 23
 
-Nombre del estudiante:
+Nombre del estudiante: Maria Consuelo Palacios
 Fecha:
-Nombre de la rama:
+Nombre de la rama:maria- Palacios
+
 
 Prueba 1: Backend activo
 
@@ -15,7 +16,7 @@ El servidor inicia en http://localhost:3000 y muestra las rutas disponibles.
 Resultado observado:
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 2: Ruta GET /api/mensajes
 
