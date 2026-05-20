@@ -6,8 +6,23 @@
   <title>Mini-sitio comunitario</title>
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-  <header>
+
+  <nav class="navbar">
+    <div class="logo">📊 Mini-sitio</div>
+
+    <div class="menu">
+      <a href="#inicio">Inicio</a>
+      <a href="#login">Login</a>
+      <a href="#mensajes">Mensajes</a>
+      <a href="#calendario">Calendario</a>
+      <a href="#resumen">Resumen</a>
+    </div>
+  </nav>
+
+  <!-- INICIO -->
+  <header id="inicio">
     <h1>Mini-sitio comunitario</h1>
     <p>
       Proyecto único de Semana 5 para difusión responsable, calendario editorial, documentación y transferencia tecnológica.
@@ -15,6 +30,7 @@
   </header>
 
   <main>
+
     <section>
       <h2>Documentación como transparencia</h2>
       <p>
@@ -22,7 +38,8 @@
       </p>
     </section>
 
-    <section>
+    <!-- LOGIN -->
+    <section id="login">
       <h2>Login pedagógico</h2>
       <p>
         Este login es solo una práctica para preparar el concepto de middleware de la Clase 25.
@@ -43,6 +60,7 @@
 
       <p id="mensajeLogin">Aquí aparecerá la respuesta del login pedagógico.</p>
     </section>
+ HEAD
     <section>
         <h2>Ruta protegida pedagógica</h2>
         <p>
@@ -58,6 +76,10 @@
       </section>
       
     <section>
+
+    <!-- MENSAJES -->
+    <section id="mensajes">
+  44d88b2 (Cambio de estilo)
       <h2>Tablero de mensajes comunitarios</h2>
       <p>
         Esta sección funciona como vitrina comunitaria. Los mensajes se cargan desde la API propia.
@@ -68,7 +90,8 @@
       </div>
     </section>
 
-    <section>
+    <!-- CALENDARIO -->
+    <section id="calendario">
       <h2>Calendario editorial</h2>
       <p>
         El calendario editorial se consulta desde el backend y permite organizar publicaciones responsables.
@@ -79,7 +102,8 @@
       </div>
     </section>
 
-    <section>
+    <!-- RESUMEN -->
+    <section id="resumen">
       <h2>Resumen de la API propia</h2>
       <p>
         Esta sección muestra un resumen generado por el backend a partir de los datos del proyecto.
@@ -89,6 +113,7 @@
         Aquí aparecerá el resumen del proyecto.
       </div>
     </section>
+
   </main>
 
   <script src="app.js"></script>
